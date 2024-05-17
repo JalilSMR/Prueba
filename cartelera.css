@@ -1,46 +1,43 @@
-    
 body {
-font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-background-color: rgb(3, 57, 93);
-color:white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(255, 0, 0);
+  color: white;
 }
 
-
 a {
-text-decoration: none;
-color:white
+  text-decoration: none;
+  color: white;
 }
 
 header {
-background: rgb(198, 205, 209);
+  background: rgb(198, 205, 209);
 }
 
 .cards {
-display: flex;
-flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .pelis:hover {
-background-color: rgb(93, 109, 129);
-color: white;
+  background-color: rgb(93, 109, 129);
+  color: white;
 }
 
 .pelis button:hover {
-background-color: rgb(11, 21, 77);
-color: blue;
+  background-color: rgb(11, 21, 77);
+  color: blue;
 }
 
 .pelis a:hover {
-color: white;
+  color: white;
 }
-
 
 .absolute {
-top: 90%;
-right: 10%;
+  top: 90%;
+  right: 10%;
 }
 
-h1{
-text-align: center;
-color: aliceblue;
+h1 {
+  text-align: center;
+  color: aliceblue;
 }
