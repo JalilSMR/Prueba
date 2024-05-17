@@ -41,6 +41,10 @@ right: 10%;
 }
 
 h1{
+background-color: aqua;
+font-size: 30px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 100;
 text-align: center;
 color: aliceblue;
 }
